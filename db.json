@@ -1,14 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"images": [
+		{
+			"id": 1,
+			"title": "Rizzle elizzle",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?house"
+		},
+		{
+			"id": 2,
+			"title": "Veggies bona",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?construction"
+		},
+		{
+			"id": 3,
+			"title": "Salad ipsum",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?lake"
+		},
+		{
+			"id": 4,
+			"title": "Rebel Alliance",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?business"
+		},
+		{
+			"id": 5,
+			"title": "Rizzle elizzle",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?building"
+		},
+		{
+			"id": 6,
+			"title": "Vestibulum vel",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?architecture"
+		},
+		{
+			"id": 7,
+			"title": "Fusce neque",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?interior"
+		},
+		{
+			"id": 8,
+			"title": "Lorem ipsum",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?design"
+		},
+		{
+			"id": 9,
+			"title": "Dolorsit",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?outdoor"
+		},
+		{
+			"id": 10,
+			"title": "Vestibulum vel",
+			"alt": "something",
+			"url": "https://source.unsplash.com/460x630/?mountain"
+		}
+	]
 }
